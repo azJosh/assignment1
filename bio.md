@@ -1,3 +1,6 @@
+Joshua Peeples Bio
+January 11, 2015
+
 Programming Background
 
 My favorite program I wrote in CS 165 was called Guess the Number. The program randomly
