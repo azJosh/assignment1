@@ -1,3 +1,5 @@
+Joshua Peeples Bio
+
 Programming Background
 
 My favorite program I wrote in CS 165 was called Guess the Number. The program randomly
@@ -11,6 +13,7 @@ Non-programming Bio
 My hobbies:
 ice hockey
 snowboarding
+Traveling
 
 Favorite Movies:
 Happy Gilmore
@@ -22,3 +25,5 @@ Saving Private Ryan
 The Dark Knight
 Inception
 
+Favorite quote:
+"Strive not to be a success, but rather to be of value." -Albert Einstein
